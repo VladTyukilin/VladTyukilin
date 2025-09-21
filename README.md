@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Привет! 👋 Я Влад</h1>
 
-<!--
-**VladTyukilin/VladTyukilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Я изучаю Python и веб-разработку. Недавно закончил pet-проект <strong>Echoes of Cinema</strong> — веб - приложение для отслеживания фильмов и сериалов.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Технологии
+- Python
+- Django
+- HTML/CSS
+- Git & GitHub
+- Docker
+
+---
+
+### 📂 Мои проекты
+- [Echoes of Cinema](https://github.com/VladTyukilin/EchoesOfCinema) — веб-приложение для управления коллекцией фильмов
+- [Pet Project Notes](https://github.com/VladTyukilin/Pet_Project_Notes) — API для заметок с JWT-аутентификацией
+
+---
+
+### 📫 Как связаться
+- Почта: zelenogloid@mail.ru
+- Telegram: @don_t_kill_my_vibe
+
+---
+
+<p><img src="https://komarev.com/ghpvc/?username=VladTyukilin&label=Profile%20views&color=0e75b6&style=flat" alt="VladTyukilin" /></p>
