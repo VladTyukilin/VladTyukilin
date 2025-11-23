@@ -1,29 +1,59 @@
+<h1 align="center">Привет! 👋 Я Влад — начинающий Python Backend разработчик</h1>
 
-<h1>Привет! 👋 Я Влад</h1>
-
-<p>Я изучаю Python и веб-разработку. Дорабатываю pet-проект <strong>Echoes of Cinema</strong> — веб - приложение для отслеживания фильмов и сериалов, для демонстрации навыков разработки</p>
+<p align="center">
+  Учусь, создаю pet-проекты, развиваю навыки backend-разработки и автоматизации.<br>
+  Сейчас активно работаю над <strong>Echoes of Cinema</strong> — REST API с JWT, тестами и CI/CD.
+</p>
 
 ---
 
-### 🛠️ Технологии
-- Python
-- Django
-- HTML/CSS
+## 🛠️ Технологии и инструменты
+
+**Основное:**
+- Python (ООП, скрипты, модули)
+- Django • Django REST Framework
+- JWT (SimpleJWT)
+- Asyncio (база), FastAPI (в процессе изучения)
+- Pytest (API-тесты)
 - Git & GitHub
-- Docker
+
+**Инфраструктура:**
+- Docker / Docker Compose
+- GitHub Actions (CI)
+- Postman
+- SQLite
 
 ---
 
-### 📂 Мои проекты
-- [Echoes of Cinema](https://github.com/VladTyukilin/EchoesOfCinema) — веб-приложение для управления коллекцией фильмов
-- [Pet Project Notes](https://github.com/VladTyukilin/Pet_Project_Notes) — API для заметок с JWT-аутентификацией
+## 📌 Проекты
+
+### 🌟 [Echoes of Cinema](https://github.com/VladTyukilin/EchoesOfCinema)
+REST API для каталога фильмов: авторизация, CRUD, Swagger, тесты, CI/CD  
+**Стек:** Django • DRF • JWT • pytest • GitHub Actions • Docker
+
+### 📝 [Notes API](https://github.com/VladTyukilin/Pet_Project_Notes)
+Мини-API для заметок с JWT-аутентификацией  
+**Стек:** Django • DRF
 
 ---
 
-### 📫 Как связаться
-- Почта: zelenogloid@mail.ru
-- Telegram: @don_t_kill_my_vibe
+## 🚀 Сейчас изучаю
+- FastAPI
+- Asyncio
+- Архитектуру backend-приложений
+- Продвинутый pytest (фикстуры, моки)
+- Основы CI/CD и деплоя
 
 ---
 
-<p><img src="https://komarev.com/ghpvc/?username=VladTyukilin&label=Profile%20views&color=0e75b6&style=flat" alt="VladTyukilin" /></p>
+## 📫 Контакты
+
+- 📧 Email: **zelenogloid@mail.ru**  
+- ✉️ Gmail: **vladislavtyukilin@gmail.com**  
+- 💬 Telegram: **@don_t_kill_my_vibe**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VladTyukilin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
