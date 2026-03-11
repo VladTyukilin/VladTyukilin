@@ -26,6 +26,9 @@
 ---
 
 ## 📌 Проекты
+### 🌟 [Habits Flow](https://github.com/VladTyukilin/HabitsFlow)
+REST API для привычек: авторизация, CRUD, тесты, CI/CD  
+**Стек:** Django • DRF • JWT • pytest • GitHub Actions • Docker
 
 ### 🌟 [Echoes of Cinema](https://github.com/VladTyukilin/EchoesOfCinema)
 REST API для каталога фильмов: авторизация, CRUD, Swagger, тесты, CI/CD  
