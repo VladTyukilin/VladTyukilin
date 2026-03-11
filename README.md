@@ -2,7 +2,7 @@
 
 <p align="center">
   Учусь, создаю pet-проекты, развиваю навыки backend-разработки и автоматизации.<br>
-  Сейчас активно работаю над <strong>Echoes of Cinema</strong> — REST API с JWT, тестами и CI/CD.
+  Сейчас активно работаю над <strong>HabitsFlow</strong> — REST API с JWT, тестами и CI/CD.
 </p>
 
 ---
