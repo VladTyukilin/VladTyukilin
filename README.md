@@ -39,4 +39,4 @@ REST API для привычек: авторизация, CRUD, тесты, CI/C
 ---
 
 ## Связаться
-Telegram: **@don_t_kill_my_vibe** • Email: `zelenogloid@mail.ru`
+Telegram: **@don_t_kill_my_vibe** • Email: **zelenogloid@mail.ru**
