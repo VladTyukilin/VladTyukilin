@@ -1,62 +1,39 @@
-<h1 align="center">Приветствую! 👋 Я Влад — начинающий Python Backend разработчик</h1>
+# Влад Тюкилин
 
-<p align="center">
-  Учусь, создаю pet-проекты, развиваю навыки backend-разработки и автоматизации.<br>
-  Сейчас активно работаю над <strong>HabitsFlow</strong> — REST API с JWT, тестами и CI/CD.
-</p>
-
----
-
-## 🛠️ Технологии и инструменты
-
-**Основное:**
-- Python (ООП, скрипты, модули)
-- Django • Django REST Framework
-- JWT (SimpleJWT)
-- Asyncio (база), FastAPI (в процессе изучения)
-- Pytest (API-тесты)
-- Git & GitHub
-
-**Инфраструктура:**
-- Docker / Docker Compose
-- GitHub Actions (CI)
-- Postman
-- SQLite
+**Ищу работу в технической поддержке (1–2 линия) и сопровождении систем.**
+Умею находить причину сбоя: читаю логи и коды ответов, проверяю сеть и API, запускаю и разбираю backend-приложения в Docker.
+Откуда это: больше десяти лет в электромонтаже (поиск неисправностей по симптомам) и два года практики на Python/Django.
 
 ---
 
-## 📌 Проекты
-### 🌟 [Habits Flow](https://github.com/VladTyukilin/HabitsFlow)
-REST API для привычек: авторизация, CRUD, тесты, CI/CD  
-**Стек:** Django • DRF • JWT • pytest • GitHub Actions • Docker
+## Что я делаю на практике
 
-### 🌟 [Echoes of Cinema](https://github.com/VladTyukilin/EchoesOfCinema)
-REST API для каталога фильмов: авторизация, CRUD, Swagger, тесты, CI/CD  
-**Стек:** Django • DRF • JWT • pytest • GitHub Actions • Docker
-
-### 📝 [Notes API](https://github.com/VladTyukilin/Pet_Project_Notes)
-Мини-API для заметок с JWT-аутентификацией  
-**Стек:** Django • DRF
+- **Диагностика:** от симптома к гипотезам и проверке. Коды 2xx–5xx, логи, `curl`/Postman, `ping`, `traceroute`, `nslookup`
+- **Linux и сети:** терминал, права доступа, процессы, `systemctl`, `journalctl`, порты (`ss`), DNS, TCP/UDP, HTTP/HTTPS
+- **Запуск и сопровождение приложений:** Docker, Docker Compose, `.env`, скрипты запуска и проверки работоспособности
+- **Backend для понимания продукта изнутри:** Python, Django REST Framework, JWT, pytest, GitHub Actions
 
 ---
 
-## 🚀 Сейчас изучаю
-- FastAPI
-- Asyncio
-- Архитектуру backend-приложений
-- Продвинутый pytest (фикстуры, моки)
-- Основы CI/CD и деплоя
+## Проекты
+
+### [Echoes of Cinema](https://github.com/VladTyukilin/EchoesOfCinema)
+REST API каталога фильмов. Запуск одной командой (`./run.sh`), Swagger, JWT, права доступа, тесты и CI.
+**Показывает:** умение развернуть и поддерживать сервис, описать запуск и типовые проблемы.
+
+### [Habits Flow](https://github.com/VladTyukilin/HabitsFlow)
+REST API для привычек: авторизация, CRUD, тесты, CI/CD, Docker.
+
+
+### [Notes API](https://github.com/VladTyukilin/Pet_Project_Notes)
+Учебный REST API с JWT.
 
 ---
 
-## 📫 Контакты
-
-- 📧 Email: **zelenogloid@mail.ru**  
-- ✉️ Gmail: **vladislavtyukilin@gmail.com**  
-- 💬 Telegram: **@don_t_kill_my_vibe**
+## Сейчас изучаю
+Администрирование Linux, сети, SQL.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VladTyukilin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## Связаться
+Telegram: **@don_t_kill_my_vibe** • Email: `zelenogloid@mail.ru`
