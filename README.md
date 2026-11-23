@@ -18,7 +18,7 @@
 ## Проекты
 
 ### [Echoes of Cinema](https://github.com/VladTyukilin/EchoesOfCinema)
-REST API каталога фильмов. Запуск одной командой (`./run.sh`), Swagger, JWT, права доступа, тесты и CI.
+REST API каталога фильмов. Запуск одной командой (`./run.sh`), JWT, права доступа, тесты и CI.
 **Показывает:** умение развернуть и поддерживать сервис, описать запуск и типовые проблемы.
 
 ### [Habits Flow](https://github.com/VladTyukilin/HabitsFlow)
